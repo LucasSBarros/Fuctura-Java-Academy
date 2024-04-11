@@ -1,0 +1,21 @@
+Exercícios de Listas
+
+1) Crie uma lista de inteiros e adicione 10 valores.
+
+2) Adicione o número 11 à lista anterior.
+
+3) Remova o valor da 5ª posição.
+
+4) Concatene a lista atual com uma nova lista.
+
+5) Imprima o tamanho da lista atual.
+
+6) Verifique se o valor 8 está presente na lista.
+
+7) Inverta a ordem de elementos da lista.
+
+8) Remova todos os pares da lista.
+
+9) Substitua o valor da 3ª posição por 30.
+
+10) Ordene a lista de forma crescente.
