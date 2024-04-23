@@ -43,5 +43,4 @@ public class Tarefa8 {
 		System.out.println("A maior idade lida foi: " + maiorIdade);
 		
 	}
-
 }
